@@ -6,6 +6,8 @@ Tools : Power BI
 
 Dashboard : https://app.powerbi.com/view?r=eyJrIjoiOGI2YmU2OTEtM2UzYy00MDVlLWE0OTUtNzQ5YmJjYjJlMjc4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
+Video Presentation : https://www.youtube.com/watch?v=rrXDC3SDzvw
+
 Insights
 
 🏬 1. Store-Level Analysis
