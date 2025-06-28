@@ -11,18 +11,24 @@ Insights
 🏬 1. Store-Level Analysis
 
 •	Total Shrinkage Units: 39,609
+
 •	Total Shrinkage Value: $21 million
+
 •	Average Shrinkage Rate: 2.14%
 
 •	Top States by Shrinkage Quantity:
 
 o	Delhi (~11.9K units)
+
 o	Maharashtra (~9.8K units)
+
 o	Gujarat (~4.1K units)
 
 •	Top Stores by Shrinkage Value:
 o	Store 11 ($1.18M)
+
 o	Store 12 ($1.10M)
+
 o	Store 6 ($1.07M)
 
 •	Efficiency Score (Total Revenue ÷ Total Shrinkage Value): Used to rank store performance and operational control
@@ -81,14 +87,10 @@ o	Visual analysis (scatter plot) shows shrinkage rates remain high during high-s
 Strategic Recommendations
 
 1.	Initiate Targeted Audits: Begin internal reviews at Store 11, Store 12, and Store 6, where shrinkage values are highest
-2.	
-3.	Strengthen Physical Controls: Focus efforts on Electronics and Home Decor, which exhibit higher loss rates
-4.	
-5.	Improve Forecasting & Replenishment: Adjust inventory policies to prevent overstocking of loss-prone items
-6.	
-7.	Monitor Seasonal Variability: Shrinkage rates are elevated in Q1 (Jan–Mar)—introduce special procedures during these months
-8.	
-9.	Establish Key Performance Indicators (KPIs): Regularly track Shrinkage Rate (%) and Efficiency Score to support continuous monitoring and accountability
+2.	Strengthen Physical Controls: Focus efforts on Electronics and Home Decor, which exhibit higher loss rates
+3. Improve Forecasting & Replenishment: Adjust inventory policies to prevent overstocking of loss-prone items
+4. Monitor Seasonal Variability: Shrinkage rates are elevated in Q1 (Jan–Mar)—introduce special procedures during these months
+5. Establish Key Performance Indicators (KPIs): Regularly track Shrinkage Rate (%) and Efficiency Score to support continuous monitoring and accountability
 
  Conclusion
  
